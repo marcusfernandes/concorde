@@ -9,5 +9,5 @@ Functionalidades
 - Envio de e-mail de notificação
 - Cadastro de Domínio - CSV ou Manual
 - Listagem de Domínio 
-- Verificação de expieração e notíficação
+- Verificação de expiração
 - Login  
